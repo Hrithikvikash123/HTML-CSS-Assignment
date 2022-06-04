@@ -1,0 +1,13 @@
+<img src=""C:\Users\dell\OneDrive\Pictures\vikash 2.jpg"" height="150">
+
+<h1>vikash kumar</h1>
+
+<a href="https://www.linkedin.com/in/vikash-kumar-6b245223b/">Linkedin</a>
+
+<section id="skills">
+    <h1>skills</h1>
+    <ul type="square">
+    <li> Languages : java, C++, Python,Android Developement.</li>
+     <li> Database : firebase.</li>
+    </ul>
+</section>
