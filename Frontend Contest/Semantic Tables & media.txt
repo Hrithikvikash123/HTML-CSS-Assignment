@@ -1,0 +1,51 @@
+<html>
+    <head>
+        </title>table</title>
+    </head>
+    <body>
+        <section>
+        <table>
+            <thead>
+            <tr>
+                <th>Roll numbers </th>
+                 <th>Names </th>
+             </tr>
+              </thead>
+              <tbody>
+              <tr>
+                <td> 1</td>
+                <td>Vikash malhotra   </td>
+             </tr>
+              <tr>
+                <td>2 </td>
+                <td>hrthik vikash </td>
+             </tr>
+              <tr>
+                    <td>3</td>
+                    <td>sonu pandit </td>
+                </tr>
+              </tbody>
+        </table>
+         </section>
+        <h1>List of medias </h1>
+
+         <section>
+         <ol type="1">
+              <li><img src="https://picsum.photos/id/123/200/300" alt="image" width="50px"/> </li>
+              <li><video controls>
+                   <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" width="50px" /> 
+                   </video></li>
+
+              <li><audio controls src="http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg"/>
+                  
+                   </li>
+                  </audio>
+         </ol>
+
+        </section>
+
+    </body>
+
+
+
+</html>
